@@ -1,0 +1,28 @@
+기본베이스 : 영화검색
+추가할 것 : 회원가입/로그인
+더 해볼것 : 찜하기
+
+
+1.
+<Home>
+<Search>
+<MovieList>
+<Footer>
+
+2.
+<Home>
+<myMovieList>
+<Footer>
+
+3.
+<Home>
+<Movie_info>
+<Footer>
+
+대충 이렇게 3페이지 만들 계획
+
+Home 기본은 배너 , {id입력}, {pw입력}, 로그인
+
+로그인시 배너 , 찜목록 , 로그아웃으로 변경되게 시도
+
+참고 : https://velog.io/@gyultang/React-%EC%98%81%ED%99%94-%EA%B2%80%EC%83%89%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
